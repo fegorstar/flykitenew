@@ -25,7 +25,7 @@ description="Flykite Productions possesses expertise in audio-visual productions
           </div>
           <div className="col-lg-6 d-flex flex-column justify-contents-center" data-aos="fade-left">
             <div className="content pt-4 pt-lg-0">
-              <h3>About</h3>
+             
               <p className="fst-italic">
  GOtv Boxing Night's combination of Las Vegas-style entertainment
 and sport makes it the only sporting event that attracts bigger crowds
@@ -55,6 +55,8 @@ when N2million in addition to his fighter’s purse, was won by Rilwan
         </div>
       </div>
     </section>
+
+    
 
     <section id="pricing" className="pricing">
     <div className="col-md-11 col-md-offset-1 ">

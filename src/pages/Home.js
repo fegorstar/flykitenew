@@ -15,7 +15,7 @@ const HomePage = () => {
 
     <section className="banner_part section_bg">
         <div className="container" >
-                        <div className="col-lg-12" id="mobilemargin">
+                        <div className="col-lg-12" id="mobilemargin" style={{marginTop:"100px"}}>
                           <h1 className="heading-section">Events <br className="rwd-break"/>Promotion</h1>
                           <Features/>
                          
