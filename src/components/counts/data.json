@@ -1,0 +1,28 @@
+{
+    "counts": [
+        {
+            "id": "001",
+            "label": "Editions",
+            "number": "24",
+            "duration": "2"
+        },
+        {
+            "id": "002",
+            "label": "TV Audience per Editions",
+            "number": "10",
+            "duration": "2"
+        },
+        {
+            "id": "003",
+            "label": "African Countries",
+            "number": "30",
+            "duration": "2"
+        },
+        {
+            "id": "004",
+            "label": "Boxers",
+            "number": "100",
+            "duration": "2"
+        }
+    ]
+}
