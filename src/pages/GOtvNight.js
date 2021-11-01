@@ -3,7 +3,7 @@ import MetaData from '../components/MetaData';
 // data 
 import data from '../components/counts/data.json'
 import Count from '../components/counts/Count';
-
+import { Link } from 'react-router-dom'
 
 const GOtvNight = () => {
 
@@ -205,17 +205,17 @@ when N2million in addition to his fighter’s purse, was won by Rilwan
                         <td className="first-row"></td>
                         <td className="second-row">
                             <div className="pricing-table-box-item-purchase">
-                                <button className="btn btn-success btn-block hvr-shrink">SIGN UP</button>
+                                <Link to="/" className="btn btn-success btn-block hvr-shrink">SIGN UP</Link>
                             </div>
                         </td>
                         <td className="third-row">
                             <div className="pricing-table-box-item-purchase">
-                                <button className="btn btn-warning btn-block hvr-shrink">SIGN UP</button>
+                                <Link to="/"  className="btn btn-warning btn-block hvr-shrink">SIGN UP</Link>
                             </div>
                         </td>
                         <td className="fourth-row">
                             <div className="pricing-table-box-item-purchase">
-                                <button className="btn btn-primary btn-block hvr-shrink">SIGN UP</button>
+                                <Link to="/"  className="btn btn-primary btn-block hvr-shrink">SIGN UP</Link>
                             </div>
                         </td>
                     </tr>
